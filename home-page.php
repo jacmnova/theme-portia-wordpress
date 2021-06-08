@@ -88,7 +88,7 @@
             <div class="row">
                 <div class="col-md-4 p-2" id="circle-section">
                     <div class="circle">
-                        <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-1.png" class="logo-circle">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-1.png" class="logo-circle">
                       </div>
                       <div class="row mt-5">
                         <p class="title-section-3">Reduzindo custos com mão de obra</p>
@@ -102,7 +102,7 @@
                 </div>
                 <div class="col-md-4 p-2" id="circle-section">
                     <div class="circle">
-                        <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-2.png" class="logo-circle">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-2.png" class="logo-circle">
                       </div>
         
                       <div class="row mt-5">
@@ -117,7 +117,7 @@
                 </div>
                 <div class="col-md-4 p-2" id="circle-section">
                     <div class="circle">
-                        <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-3.png" class="logo-circle">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-3.png" class="logo-circle">
                       </div>
                       <div class="row mt-5">
                         <p class="title-section-3">Auxiliando na mudança cultural</p>
@@ -141,7 +141,7 @@
       
       <div class="row p-5 ">
         <div class="col-md-10 offset-md-1 d-flex justify-content-center mt-5">
-          <?php echo do_shortcode( '[smart_post_show id="100"]' ); ?>
+          <?php echo do_shortcode( '[smart_post_show id="29"]' ); ?>
         </div>
       </div>
 </div>
