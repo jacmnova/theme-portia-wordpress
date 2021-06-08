@@ -1,0 +1,146 @@
+#nav-web {
+    display: block !important;
+}
+
+#nav-movil {
+    display: none !important;
+}
+
+#nav-phone {
+    display: none !important;
+}
+
+.nav-bar-portia {
+    background: #440322 0% 0% no-repeat padding-box;
+    border-radius: 14px;
+    opacity: 1;
+    width: 90%;
+    margin: auto;
+    color: #FFFFFF !important;
+    padding: 20px;
+}
+
+.menu-menu-container > ul {
+    list-style: none;
+    display: flex;
+    width: 100%;
+    margin: 0 !important;
+}
+
+.menu-menu-container > ul > li > a {
+    font-family: Poppins-Bold;
+    margin-left: 20px;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+}
+
+.navbar-vine {
+    background-color: #440322;
+}
+
+.collapse {
+    background-color: #440322 !important;
+    border-top: 1px solid #ea0c4d29;
+}
+
+.collapsing {
+    background-color: #440322;
+    border-top: 1px solid #ea0c4d29;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0 !important;
+}
+@media only screen and (max-width: 1000px) {
+
+    
+    .navbar>.container-fluid {
+        justify-content: center !important;
+    }
+    #nav-web {
+        display: none !important;
+    }
+
+    #nav-movil {
+        display: block !important;
+    }
+
+    #nav-phone {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 750px) { 
+    
+
+    .menu-menu-container > ul {
+        list-style: none;
+        display: flex;
+        width: 100%;
+        margin: 0 !important;
+        font-size: 13px !important;
+    }
+
+    #nav-web {
+        display: none !important;
+    }
+
+    #nav-movil {
+        display: block !important;
+    }
+
+    #nav-phone {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-bar-portia {
+        background: #440322 0% 0% no-repeat padding-box;
+        border-radius: 14px;
+        opacity: 1;
+        width: 90%;
+        margin: auto;
+        color: #FFFFFF !important;
+        padding: 5px;
+    }
+
+    .menu-menu-container > ul {
+        list-style: none;
+        display: block;
+        width: 100%;
+        margin: 0 !important;
+        font-size: 13px !important;
+        padding: 0;
+        text-align: center;
+    }
+
+    
+    .navbar-toggler {
+        padding: .25rem .75rem;
+        font-size: 1.25rem;
+        line-height: 1;
+        background-color: #ea0c4d;
+        border: 1px solid #440322;
+        border-radius: .25rem;
+        transition: box-shadow .15s ease-in-out;
+    }
+
+    #nav-web {
+        display: none !important;
+    }
+
+    #nav-movil {
+        display: none !important;
+    }
+
+    #nav-phone {
+        display: block !important;
+    }
+}

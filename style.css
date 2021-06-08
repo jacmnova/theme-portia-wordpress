@@ -1,0 +1,546 @@
+/*
+Theme Name: Portai 
+Author: Jose A Cordero
+Author URI: 
+Description: My first responsive HTML5 theme
+Version: 1.0
+*/
+
+* {
+    box-sizing: border-box;
+    animation: all ease-in 0.5s;
+  }
+ 
+  
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url("./assets/font/Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-Black";
+    src: url("./assets/font/Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-ExtraLight";
+    src: url("./assets/font/Poppins/Poppins-ExtraLight.ttf");
+}
+
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url("./assets/font/Poppins/Poppins-Bold.ttf");
+}
+
+
+@font-face {
+    font-family: "Poppins-Light";
+    src: url("./assets/font/Poppins/Poppins-Light.ttf");
+}
+
+
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url("./assets/font/Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url("./assets/font/Poppins/Poppins-SemiBold.ttf");
+}
+  
+  body {
+      background-color: #f9f9f9;
+      font-family: Helvetica;
+  }
+
+
+
+
+.mt-10 {
+    margin-top: 25%!important;
+}
+
+
+
+#section-1 {
+    background-image: url('./assets/img/HOME/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 125vh;
+}
+
+.title-center {
+    font-family: Poppins-Black;
+    color: #FFFFFF !important;
+    font-size: 4em;
+    text-align: center;
+}
+
+.text-center {
+    font-family: Poppins-Light;
+    color: #FFFFFF !important;
+    font-size: 2em;
+    text-align: center;
+}
+
+.footer {
+    background: transparent linear-gradient(180deg, #EA0C4D 0%, #440322 100%) 0% 0% no-repeat padding-box;
+    border-radius: 100px 0px 0px 0px;
+    color: #FFFFFF;
+
+}
+
+.title-footer {
+    font-family: Poppins-Bold;
+}
+
+.text-footer {
+    font-family: Poppins-Regular;
+}
+
+.linkedin {
+    margin-right: 10px;
+}
+
+.input-footer {
+    font-family: Poppins-Regular;
+    color: #707070;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 37px;
+    opacity: 1;
+    border-color: transparent !important;
+}
+
+.input-footer > input:focus {
+    background-color: transparent !important;
+}
+
+.btn-input-vine {
+    border-color: transparent !important;
+    background: #440322 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 37px !important;
+    opacity: 1;
+    color: #FFF;
+    font-family: Poppins-Regular;
+    width: 70px;
+}
+
+.btn-input-vine:hover {
+    color: #FFFFFF;
+}
+
+.btn-input-vine:focus {
+    color: #FFFFFF;
+}
+
+
+
+#section-2 {
+    margin-top: -12.5% !important;
+}
+
+.second-title-center {
+    text-align: center;
+    font-family: Poppins-Bold;
+    color: #FFF !important;
+}
+
+.mini-card {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 20px;
+    opacity: 1;
+    padding: 50px !important; 
+    height: 80% !important;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.text-card-mini {
+    font-family: Poppins-Light !important;
+    font-size: 1.3em;
+    color: #1E1E1E;
+    text-align: center;
+}
+
+
+.third-title-center {
+    font-family: Poppins-Bold;
+    color: #1E1E1E;
+    text-align: center;
+    height: 100% !important;
+}
+
+.circle {
+    background-color: #EA0C4D;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    border-radius: 50%;
+    box-shadow: 20px 11px 2px 0px #440322, 20px 11px 20px 1px #000000ba;
+}
+
+.logo-circle {
+    margin: auto;
+    width: 125px;
+    height: 125px;
+    padding: 27px;
+}
+
+.title-section-3 {
+    font-size: 1.2em;
+    font-family: Poppins-Bold;
+    color: #1E1E1E;
+}
+
+.text-section-3 {
+    font-family: Poppins-Regular;
+    color: #515454;
+}
+
+.article {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    height: 100%;
+}
+
+
+.article-footer {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.btn-pink {
+    background: #EA0C4D 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 37px;
+    opacity: 1;
+    color: #FFF;
+    font-family: Poppins-Regular;
+}
+
+#section-4 {
+    background: #F5F4F4 0% 0% no-repeat padding-box;
+    border-radius: 0px 250px 0px 0px;
+}
+
+.prev {
+    display: block !important;
+    left: 0%;
+}
+.next {
+    display: block !important;
+    right: 0%;
+}
+
+.link {
+    font-family: Poppins-SemiBold;
+    color: #808484;
+    font-size: 1.2em;
+}
+
+.article > img {
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    width: 100%;
+    height: 280px !important;
+}
+
+.card-footer {
+    background-color: transparent !important;
+}
+
+#carousel-web {
+    display: block !important;
+}
+
+#carousel-movil {
+    display: none !important;
+}
+
+
+#footer-web {
+    display: block !important;
+}
+
+#footer-movil {
+    display: none !important;
+}
+
+
+#row-movil {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.logo-footer {
+    width: 100%;
+}
+.carousel-item.active {
+    height: 55vh;
+}
+
+@media only screen and (max-height: 868px) {
+.carousel-item.active {
+    height: 85vh;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    
+    .navbar>.container-fluid {
+        justify-content: center !important;
+    }
+
+    
+    
+
+    .mini-card {
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #00000029;
+        border-radius: 20px;
+        opacity: 1;
+        padding: 20px !important; 
+        height: 90% !important;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .article > img {
+        border-top-left-radius: calc(.25rem - 1px);
+        border-top-right-radius: calc(.25rem - 1px);
+        width: 100%;
+        height: 255px !important;
+    }
+    
+    #carousel-web {
+        display: none !important;
+    }
+
+    #carousel-movil {
+        display: block !important;
+    }
+
+    .prev {
+        display: block !important;
+        /* left: -18.5%; */
+        left: -0px;
+    }
+    .next {
+        display: block !important;
+        right: 0px;
+    }
+
+    #box-card-carousel {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .logo-footer {
+        width: 100% !important;
+    }
+
+    *{overflow-x: hidden !important;}
+
+    .card-body, .card-footer, .text-center, .title-center {
+        overflow: hidden;
+    }
+    
+    .second-title-center {
+        overflow: hidden !important;
+    }
+
+    #section-3 > .row > .col-md-6 {
+        overflow: hidden;
+        margin-top: 20px;
+    }
+    
+    #section-4 > .row >  .col-md-10 {
+        overflow-y: hidden !important;
+    }
+
+    .title-footer  {
+        overflow: hidden !important;
+    }
+
+    .text-footer{
+        text-align: inherit;
+    }
+
+    .title-footer{
+        text-align: inherit;
+    }
+
+}
+
+@media only screen and (max-width: 750px) { 
+    
+    .text-footer{
+        text-align: center;
+    }
+
+    .title-footer{
+        text-align: center;
+    }
+
+
+    
+}
+
+
+
+@media only screen and (max-width: 600px)  {
+
+    #footer-web {
+        display: none !important;
+    }
+
+    #footer-movil {
+        display: block !important;
+        text-align: center !important;
+    }
+
+    .prev{
+        display: none !important;
+    }
+
+    .next{
+        display: none !important;
+    }
+
+    #more {
+        text-align: center !important;
+    }
+
+    #circle-section {
+        padding: 50px !important;
+    }
+
+    .mini-card {
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #00000029;
+        border-radius: 20px;
+        opacity: 1;
+        padding: 35px !important;
+        height: 90% !important;
+        width: 60%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+    
+    #section-2 {
+        margin-top: -35.5% !important;
+    }
+
+    #section-3 {
+        margin-top: 20% !important;
+    }
+
+    .title-center {
+        font-family: Poppins-Black;
+        color: #FFFFFF !important;
+        font-size: 3em;
+        text-align: center;
+    }
+
+    .text-center {
+        font-family: Poppins-Light;
+        color: #FFFFFF !important;
+        font-size: 1.2em;
+        text-align: center;
+    }
+    
+    *{ 
+        overflow-x: hidden !important;
+    }
+
+    #section-4 {
+        background: #F5F4F4 0% 0% no-repeat padding-box;
+        border-radius: 0px 75px 0px 0px !important;
+    }
+
+
+    .card-body, .card-footer, .text-center, .title-center {
+        overflow: hidden;
+    }
+
+    .box-third-text {
+        overflow: hidden;
+    }
+
+    #section-4 > .col-md-10 {
+        overflow: hidden;
+    }
+
+    #box-card-carousel {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .row>* {
+        flex-shrink: 0;
+        width: auto;
+        max-width: 100%;
+        padding-right: calc(var(--bs-gutter-x)/ 2);
+        padding-left: calc(var(--bs-gutter-x)/ 2);
+        margin-top: var(--bs-gutter-y);
+    }
+
+
+    .navbar-vine {
+        background-color: #440322;
+    }
+
+    .navbar-toggler {
+        padding: .25rem .75rem;
+        font-size: 1.25rem;
+        line-height: 1;
+        background-color: #ea0c4d;
+        border: 1px solid #440322;
+        border-radius: .25rem;
+        transition: box-shadow .15s ease-in-out;
+    }
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 0 !important;
+    }
+
+    .white {
+        color: #FFFFFF;
+    }
+
+    .collapse {
+        background-color: #440322;
+        border-top: 1px solid #ea0c4d29;
+    }
+
+    .collapsing {
+        background-color: #440322;
+        border-top: 1px solid #ea0c4d29;
+    }
+
+    
+    .text-footer{
+        text-align: center;
+    }
+
+    .title-footer{
+        text-align: center;
+    }
+
+}

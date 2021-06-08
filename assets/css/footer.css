@@ -1,0 +1,100 @@
+.footer {
+    background: transparent linear-gradient(180deg, #EA0C4D 0%, #440322 100%) 0% 0% no-repeat padding-box;
+    border-radius: 100px 0px 0px 0px;
+    color: #FFFFFF;
+
+}
+
+
+.title-footer {
+    font-family: Poppins-Bold;
+}
+
+.text-footer {
+    font-family: Poppins-Regular;
+}
+
+
+.input-footer {
+    font-family: Poppins-Regular;
+    color: #707070;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 37px;
+    opacity: 1;
+    border-color: transparent !important;
+}
+
+.input-footer > input:focus {
+    background-color: transparent !important;
+}
+
+
+
+#footer-web {
+    display: block !important;
+}
+
+#footer-movil {
+    display: none !important;
+}
+
+
+.logo-footer {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .logo-footer {
+        width: 100% !important;
+    }
+    .title-footer  {
+        overflow: hidden !important;
+    }
+
+    .text-footer{
+        text-align: inherit;
+    }
+
+    .title-footer{
+        text-align: inherit;
+    }
+}
+
+@media only screen and (max-width: 750px) { 
+    
+    .text-footer{
+        text-align: center;
+    }
+
+    .title-footer{
+        text-align: center;
+    }
+
+
+    
+}
+
+
+@media only screen and (max-width: 600px)  {
+
+    #footer-web {
+        display: none !important;
+    }
+
+    #footer-movil {
+        display: block !important;
+        text-align: center !important;
+    }
+
+
+    
+    .text-footer{
+        text-align: center;
+    }
+
+    .title-footer{
+        text-align: center;
+    }
+
+}
