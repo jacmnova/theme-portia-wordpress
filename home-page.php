@@ -31,7 +31,7 @@
                     <div class="card mini-card">
                       <div class="card-body">
                         <div class="row">
-                          <img src="http://localhost/wordpress/wp-content/themes/Portai-theme/assets/img/HOME/logo-airplane.png" class="mini-logo">
+                          <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-airplane.png" class="mini-logo">
                         </div>
                       </div>
                       <div class="card-footer footer-mini">
@@ -45,7 +45,7 @@
                     <div class="card mini-card">
                       <div class="card-body">
                         <div class="row">
-                          <img src="http://localhost/wordpress/wp-content/themes/Portai-theme/assets/img/HOME/logo-shop.png" class="mini-logo">
+                          <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-shop.png" class="mini-logo">
                         </div>
                         
                       </div>
@@ -60,7 +60,7 @@
                     <div class="card mini-card">
                       <div class="card-body">
                         <div class="row">
-                          <img src="http://localhost/wordpress/wp-content/themes/Portai-theme/assets/img/HOME/logo-medicines.png" class="mini-logo">
+                          <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-medicines.png" class="mini-logo">
                         </div>
                         
                       </div>
@@ -88,7 +88,7 @@
             <div class="row">
                 <div class="col-md-4 p-2" id="circle-section">
                     <div class="circle">
-                        <img src="http://localhost/wordpress/wp-content/themes/Portai-theme/assets/img/HOME/logo-circle-1.png" class="logo-circle">
+                        <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-1.png" class="logo-circle">
                       </div>
                       <div class="row mt-5">
                         <p class="title-section-3">Reduzindo custos com mão de obra</p>
@@ -102,7 +102,7 @@
                 </div>
                 <div class="col-md-4 p-2" id="circle-section">
                     <div class="circle">
-                        <img src="http://localhost/wordpress/wp-content/themes/Portai-theme/assets/img/HOME/logo-circle-2.png" class="logo-circle">
+                        <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-2.png" class="logo-circle">
                       </div>
         
                       <div class="row mt-5">
@@ -117,7 +117,7 @@
                 </div>
                 <div class="col-md-4 p-2" id="circle-section">
                     <div class="circle">
-                        <img src="http://localhost/wordpress/wp-content/themes/Portai-theme/assets/img/HOME/logo-circle-3.png" class="logo-circle">
+                        <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-3.png" class="logo-circle">
                       </div>
                       <div class="row mt-5">
                         <p class="title-section-3">Auxiliando na mudança cultural</p>
