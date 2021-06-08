@@ -31,7 +31,7 @@
                     <div class="card mini-card">
                       <div class="card-body">
                         <div class="row">
-                          <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-airplane.png" class="mini-logo">
+                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-airplane.png" class="mini-logo">
                         </div>
                       </div>
                       <div class="card-footer footer-mini">
@@ -45,7 +45,7 @@
                     <div class="card mini-card">
                       <div class="card-body">
                         <div class="row">
-                          <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-shop.png" class="mini-logo">
+                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-shop.png" class="mini-logo">
                         </div>
                         
                       </div>
@@ -60,7 +60,7 @@
                     <div class="card mini-card">
                       <div class="card-body">
                         <div class="row">
-                          <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-medicines.png" class="mini-logo">
+                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-medicines.png" class="mini-logo">
                         </div>
                         
                       </div>

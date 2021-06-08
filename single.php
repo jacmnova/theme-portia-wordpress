@@ -56,12 +56,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <!-- <div class="col-md-6">
                                 <p class="local-text">FAZER DOWNLOAD</p>
                                 <button class="btn" id="download">
                                     <img src="<?php echo get_template_directory_uri() ?>/assets/img/article-1/baixar@2x.png">
                                 </button>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="row mt-5">
                             <div class="col-md-12">

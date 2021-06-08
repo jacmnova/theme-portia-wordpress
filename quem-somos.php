@@ -16,10 +16,10 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/9290f66e82.js" crossorigin="anonymous"></script>
-    <link href="href="<?php echo get_template_directory_uri() ?>/assets/css/about.css" rel="stylesheet">
-    <link href="href="<?php echo get_template_directory_uri() ?>/assets/css/scroll.css" rel="stylesheet">
-    <link href="href="<?php echo get_template_directory_uri() ?>/assets/css/nav-bar.css" rel="stylesheet">
-    <link href="href="<?php echo get_template_directory_uri() ?>/assets/css/footer.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri() ?>/assets/css/about.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri() ?>/assets/css/scroll.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri() ?>/assets/css/nav-bar.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri() ?>/assets/css/footer.css" rel="stylesheet">
     <title>Portia - Quem somos</title>
     <?php wp_head(); ?>
   </head>
@@ -708,12 +708,12 @@
               <div class="col-md-4">
                 <h4 class="title-footer">Envie uma mensagem</h4>
                 <p class="text-footer"><a href="https://www.linkedin.com/company/portia-lac/">
-                  <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/likedin.png" class="linkedin" width="35"></a> 
+                  <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/likedin.png" class="linkedin" width="35"></a> 
                   contato@portialac.com
                 </p>
               </div>
               <div class="col-md-3">
-                <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo.png" class="logo-footer">
+                <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo.png" class="logo-footer">
               </div>
             </div>
   
@@ -753,12 +753,12 @@
               <div class="col-md-4">
                 <h4 class="title-footer">Envie uma mensagem</h4>
                 <p class="text-footer"><a href="https://www.linkedin.com/company/portia-lac/">
-                  <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/likedin.png" class="linkedin" width="35"></a> 
+                  <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/likedin.png" class="linkedin" width="35"></a> 
                   contato@portialac.com
                 </p>
               </div>
               <div class="col-md-3">
-                <img src="href="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo.png" class="w-100">
+                <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo.png" class="w-100">
               </div>
             </div>
   
