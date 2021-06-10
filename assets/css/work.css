@@ -204,7 +204,7 @@ body {
 
 @media only screen and (max-height: 768px) { 
     .section-1 {
-        background-image: url('http://localhost/wordpress/wp-content/themes/Portai-theme/assets/img/WORK/background-header.png');
+        background-image: url('../img/WORK/background-header.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
