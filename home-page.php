@@ -34,11 +34,11 @@
                           <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-airplane.png" class="mini-logo">
                         </div>
                       </div>
-                      <div class="card-footer footer-mini">
+                      <!-- <div class="card-footer footer-mini">
                         <div class="row d-flex justify-content-center">
-                          <!-- <p class="text-card-mini">Aviação</p> -->
+                          <p class="text-card-mini">Aviação</p>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
@@ -49,11 +49,11 @@
                         </div>
                         
                       </div>
-                      <div class="card-footer footer-mini">
+                      <!-- <div class="card-footer footer-mini">
                         <div class="row d-flex justify-content-center mt-lg-3">
-                          <!-- <p class="text-card-mini">Varejo</p> -->
+                          <p class="text-card-mini">Varejo</p>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
@@ -64,11 +64,11 @@
                         </div>
                         
                       </div>
-                      <div class="card-footer footer-mini">
+                      <!-- <div class="card-footer footer-mini">
                         <div class="row d-flex justify-content-center mt-3">
-                          <!-- <p class="text-card-mini">Laboratórios</p> -->
+                          <p class="text-card-mini">Laboratórios</p>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                 </div>
             </div>
