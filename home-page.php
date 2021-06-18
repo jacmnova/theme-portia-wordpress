@@ -36,7 +36,7 @@
                       </div>
                       <div class="card-footer footer-mini">
                         <div class="row d-flex justify-content-center">
-                          <p class="text-card-mini">Aviação</p>
+                          <!-- <p class="text-card-mini">Aviação</p> -->
                         </div>
                       </div>
                     </div>
@@ -51,7 +51,7 @@
                       </div>
                       <div class="card-footer footer-mini">
                         <div class="row d-flex justify-content-center mt-lg-3">
-                          <p class="text-card-mini">Varejo</p>
+                          <!-- <p class="text-card-mini">Varejo</p> -->
                         </div>
                       </div>
                     </div>
@@ -66,7 +66,7 @@
                       </div>
                       <div class="card-footer footer-mini">
                         <div class="row d-flex justify-content-center mt-3">
-                          <p class="text-card-mini">Laboratórios</p>
+                          <!-- <p class="text-card-mini">Laboratórios</p> -->
                         </div>
                       </div>
                     </div>
@@ -91,12 +91,12 @@
                         <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/logo-circle-1.png" class="logo-circle">
                       </div>
                       <div class="row mt-5">
-                        <p class="title-section-3">Reduzindo custos com mão de obra</p>
+                        <p class="title-section-3">Reduzindo custos com a mão de obra e passivo trabalhista</p>
                         <p class="text-section-3">
-                          Visibilidade dos pontos de sobreposição e desperdício de recursos humanos. 
+                          Entregamos maior visibilidade aos desperdícios de recursos humanos.
                         </p>
                         <p class="text-section-3">
-                          Alocação recursos e gestão de folgas nos momentos mais adequados.
+                          Alocamos recursos e gerenciamos as folgas nos momentos mais adequados.
                         </p>
                       </div>
                 </div>
@@ -106,12 +106,9 @@
                       </div>
         
                       <div class="row mt-5">
-                        <p class="title-section-3">Melhorando a satisfação dos funcionários</p>
+                        <p class="title-section-3">Melhorando o nível de serviço aos clientes</p>
                         <p class="text-section-3">
-                          Entrega de maior autonomia e transparência aos funcionários.
-                        </p>
-                        <p class="text-section-3">
-                          Trabalhadores mais satisfeitos geram clientes mais felizes.
+                          Garantimos que as escalas sejam construídas de forma que seu cliente tenha a melhor experiência possível, alocando recursos nos dias e horários mais adequados.
                         </p>
                       </div>
                 </div>
@@ -122,7 +119,7 @@
                       <div class="row mt-5">
                         <p class="title-section-3">Auxiliando na mudança cultural</p>
                         <p class="text-section-3">
-                          Tanto ao aumentar a exposição aos executivos da companhia, quanto ao sensibilizar os diferentes níveis da cadeia para uma responsabilidade compartilhada sobre os recursos da empresa
+                          Aumentamos a exposição do impacto das escalas aos executivos da companhia, e ao mesmo tempo entregamos maior autonomia e transparência aos funcionários.
                         </p>
                       </div>
                 </div>

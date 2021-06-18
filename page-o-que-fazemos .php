@@ -26,13 +26,13 @@
         <div class="section-1">
             <div class="row" id="text">
             <div class="col-md-8 offset-md-2 d-flex justify-content-center">
-                <h1 class="title-center">A Portia gera valor para empresas de diversos tamanhos e setores usando a gestão eficiente de escalas e otimização de processos e recursos operacionais.</h1>
+                <h1 class="title-center">A Portia gera valor para empresas de diversos tamanhos e setores usando a gestão eficiente de escalas</h1>
             </div>
             <div class="col-md-8 offset-md-2  mt-4">
                 <h3 class="text-center">Ao combinar um software de ponta com um estudo cuidadoso e aprofundado das necessidades de cada empresa, a Portia está reinventando no Brasil o que significa fazer gestão de escalas de forma inteligente. </h3>
-                <h3 class="text-center">Isso é feito por meio de imersões dentro do cliente, compreensão profunda da forma de trabalho e cultura da empresa, e elaboração de processos e escalas partindo deste conhecimento. 
+                <!-- <h3 class="text-center">Isso é feito por meio de imersões dentro do cliente, compreensão profunda da forma de trabalho e cultura da empresa, e elaboração de processos e escalas partindo deste conhecimento. </h3>
                 <h3 class="text-center">O trabalho da Portia ajuda empresas a reduzir custos com ativos trabalhistas, pois sincroniza as jornadas de trabalho dos colaboradores com as devidas camadas de legislações brasileiras. </h3>
-                <h3 class="text-center">Toda essa clareza e transparência resultam em uma empresa mais enxuta e fluida, com muito mais visibilidade do todo para gerentes e diretores e maior adaptabilidade a novos cenários.</h3>
+                <h3 class="text-center">Toda essa clareza e transparência resultam em uma empresa mais enxuta e fluida, com muito mais visibilidade do todo para gerentes e diretores e maior adaptabilidade a novos cenários.</h3> -->
             </div>
             </div>
         </div>
