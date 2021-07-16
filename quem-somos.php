@@ -342,7 +342,7 @@
         <div class="row">
           <div class="col-md-5 border-left-card">
             <div class="card w-100 article">
-              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Erika Stecko-1@2x.png" class="card-img-top" alt="..." >
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Giovanni.png" class="card-img-top" alt="..." >
               <div class="row">
                 <div class="col-md-12 d-flex justify-content-end container-btn">
                 </div>
@@ -360,6 +360,90 @@
           <div class="col-md-6">
             <div class="body-text">
               <p class="text-modal">Bacharel em Ciência e Tecnologia pela Universidade Federal do ABC, desde 2015 atuando com análise de dados, implementação de sistemas e desenvolvimento comercial. Responsável por implementar sistemas de analise de dados de RH na américa latina e participação na construção de grandes produtos como Serasa Limpa Nome. 
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="MarianaNery" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content modal-profile">
+      <div class="modal-body p-5">
+        <div class="row close-fa">
+          <div class="col-md-1 offset-10">
+            <button type="button" class="btn-closed" data-bs-dismiss="modal">
+              <i class="fas fa-times icon-fa"></i>
+            </button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-5 border-left-card">
+            <div class="card w-100 article">
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/MarianaNery.png" class="card-img-top" alt="..." >
+              <div class="row">
+                <div class="col-md-12 d-flex justify-content-end container-btn">
+                </div>
+              </div>
+              <div class="card-body">
+                <h5 class="card-title-white">Mariana Nery</h5>
+                <p class="card-text-white">Consultor </p>
+              </div>
+              <div class="card-footer article-footer">
+                <a href="https://www.linkedin.com/in/giovanni-zerlin " class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM</a>
+                <p class="card-email-white">mariana.nery@portialac.com</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="body-text">
+              <p class="text-modal">
+                Bacharel em Turismo pela Universidade de São Paulo (USP) e com Especialização em Data Science (2019). Profissional com visão data driven, experiência de 8+ anos em Data Analysis & BI e ampla experiência em projetos variados (incluindo gestão e coordenação), marketing digital e educação. Utilização de plataformas de tratamento e visualização de dados e uso de metodologias ágeis.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Diego" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content modal-profile">
+      <div class="modal-body p-5">
+        <div class="row close-fa">
+          <div class="col-md-1 offset-10">
+            <button type="button" class="btn-closed" data-bs-dismiss="modal">
+              <i class="fas fa-times icon-fa"></i>
+            </button>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-5 border-left-card">
+            <div class="card w-100 article">
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Diego.png" class="card-img-top" alt="..." >
+              <div class="row">
+                <div class="col-md-12 d-flex justify-content-end container-btn">
+                </div>
+              </div>
+              <div class="card-body">
+                <h5 class="card-title-white">Diego Ongaro </h5>
+                <p class="card-text-white">Consultor </p>
+              </div>
+              <div class="card-footer article-footer">
+                <a href="https://www.linkedin.com/in/giovanni-zerlin " class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM</a>
+                <p class="card-email-white">diego.ongaro@portialac.com </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="body-text">
+              <p class="text-modal">
+                Formado em gestão da Tecnologia da Informação, dispõe de background técnico com mais de 5 anos em infraestrutura de TI de nível Data Center, possui experiencia em gestão de projetos e metodologias ágeis. Foi responsável pela implementação de solução BI numa startup (Donuts e Café) localizada na província de Cork no sul da Irlanda.
               </p>
             </div>
           </div>
@@ -600,7 +684,7 @@
                       </div>
                       <div class="col-md-3 d-flex justify-content-center">
                         <div class="card w-100 article">
-                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Erika Stecko-1@2x.png" class="card-img-top" alt="...">
+                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Giovanni.png" class="card-img-top" alt="...">
                           <div class="row">
                             <div class="col-md-12 d-flex justify-content-end container-btn">
                               <button class="btn button-card" data-bs-toggle="modal" data-bs-target="#GiovanniZerlin">
@@ -617,6 +701,46 @@
                           </div>
                         </div>
                       </div>
+                  </div>
+                  <div class="row mt-5 mb-5">
+                    <div class="col-md-3 d-flex justify-content-center">
+                      <div class="card w-100 article">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/MarianaNery.png" class="card-img-top" alt="...">
+                        <div class="row">
+                          <div class="col-md-12 d-flex justify-content-end container-btn">
+                            <button class="btn button-card" data-bs-toggle="modal" data-bs-target="#MarianaNery">
+                              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Componente 2 – 2.png">
+                            </button>
+                          </div>
+                        </div>
+                        <div class="card-body">
+                          <h5 class="card-title">Mariana Nery</h5>
+                          <p class="card-text">Consultora</p>
+                        </div>
+                        <div class="card-footer article-footer">
+                          <a href="https://www.linkedin.com/in/marianapnery/" class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-3 d-flex justify-content-center">
+                      <div class="card w-100 article">
+                        <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/diego.png" class="card-img-top" alt="...">
+                        <div class="row">
+                          <div class="col-md-12 d-flex justify-content-end container-btn">
+                            <button class="btn button-card" data-bs-toggle="modal" data-bs-target="#Diego">
+                              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Componente 2 – 2.png">
+                            </button>
+                          </div>
+                        </div>
+                        <div class="card-body">
+                          <h5 class="card-title">Diego Ongaro</h5>
+                          <p class="card-text">Consultora</p>
+                        </div>
+                        <div class="card-footer article-footer">
+                          <a href="https://www.linkedin.com/in/diego-ongaro-de-mello-lopes-564b07a7/" class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM</a>
+                        </div>
+                      </div>
+                    </div>
                 </div>
               </div>
           </div>
