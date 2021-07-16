@@ -87,7 +87,7 @@
         <div class="row">
           <div class="col-md-5 border-left-card">
             <div class="card w-100 article">
-              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Erika Stecko-1@2x.png" class="card-img-top" alt="..." >
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/carlos.png" class="card-img-top" alt="..." >
               <div class="row">
                 <div class="col-md-12 d-flex justify-content-end container-btn">
                 </div>
@@ -342,7 +342,7 @@
         <div class="row">
           <div class="col-md-5 border-left-card">
             <div class="card w-100 article">
-              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Giovanni.png" class="card-img-top" alt="..." >
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/Giovanni.png" class="card-img-top" alt="..." >
               <div class="row">
                 <div class="col-md-12 d-flex justify-content-end container-btn">
                 </div>
@@ -383,7 +383,7 @@
         <div class="row">
           <div class="col-md-5 border-left-card">
             <div class="card w-100 article">
-              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/MarianaNery.png" class="card-img-top" alt="..." >
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/MarianaNery.png" class="card-img-top" alt="..." >
               <div class="row">
                 <div class="col-md-12 d-flex justify-content-end container-btn">
                 </div>
@@ -425,7 +425,7 @@
         <div class="row">
           <div class="col-md-5 border-left-card">
             <div class="card w-100 article">
-              <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Diego.png" class="card-img-top" alt="..." >
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/Diego.png" class="card-img-top" alt="..." >
               <div class="row">
                 <div class="col-md-12 d-flex justify-content-end container-btn">
                 </div>
@@ -567,7 +567,7 @@
                       </div>
                       <div class="col-md-3 d-flex justify-content-center">
                         <div class="card w-100 article">
-                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Erika Stecko-1@2x.png" class="card-img-top" alt="...">
+                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/carlos.png" class="card-img-top" alt="...">
                           <div class="row">
                             <div class="col-md-12 d-flex justify-content-end container-btn">
                               <button class="btn button-card" data-bs-toggle="modal" data-bs-target="#CarlosSanjuan">
@@ -656,7 +656,7 @@
                           </div>
                           <div class="card-body">
                             <h5 class="card-title">Filipe Soares</h5>
-                            <p class="card-text">Consultora</p>
+                            <p class="card-text">Consultor</p>
                           </div>
                           <div class="card-footer article-footer">
                             <a href="https://www.linkedin.com/in/filipe-d-soares-069ab816 " class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM</a>
@@ -675,7 +675,7 @@
                           </div>
                           <div class="card-body">
                             <h5 class="card-title">Vitor Agostini</h5>
-                            <p class="card-text">Consultora</p>
+                            <p class="card-text">Consultor</p>
                           </div>
                           <div class="card-footer article-footer">
                             <a href="https://www.linkedin.com/in/vitorhugoagostini " class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM </a>
@@ -684,7 +684,7 @@
                       </div>
                       <div class="col-md-3 d-flex justify-content-center">
                         <div class="card w-100 article">
-                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/ABOUT/Giovanni.png" class="card-img-top" alt="...">
+                          <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/Giovanni.png" class="card-img-top" alt="...">
                           <div class="row">
                             <div class="col-md-12 d-flex justify-content-end container-btn">
                               <button class="btn button-card" data-bs-toggle="modal" data-bs-target="#GiovanniZerlin">
@@ -694,7 +694,7 @@
                           </div>
                           <div class="card-body">
                             <h5 class="card-title">Giovanni Zerlin</h5>
-                            <p class="card-text">Consultora</p>
+                            <p class="card-text">Consultor</p>
                           </div>
                           <div class="card-footer article-footer">
                             <a href="https://www.linkedin.com/in/giovanni-zerlin " class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM</a>
@@ -734,7 +734,7 @@
                         </div>
                         <div class="card-body">
                           <h5 class="card-title">Diego Ongaro</h5>
-                          <p class="card-text">Consultora</p>
+                          <p class="card-text">Consultor</p>
                         </div>
                         <div class="card-footer article-footer">
                           <a href="https://www.linkedin.com/in/diego-ongaro-de-mello-lopes-564b07a7/" class="btn btn-pink"><i class="fab fa-linkedin"></i> ENVIE UMA MENSAGEM</a>
