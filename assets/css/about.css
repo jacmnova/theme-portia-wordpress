@@ -579,27 +579,3 @@ body {
         height: auto !important;
     }
 }
-
-@media only screen and (max-height: 1366px) { 
-
-    .section-2 {
-        height: 65% !important;
-    }
-
-    #section-2-2 {
-        background-size: cover;
-        height: auto;
-    }
-}
-
-
-@media only screen and (max-height: 900px) { 
-
-    .section-2 {
-        height: 100%;
-    }
-
-    #section-2-2 {
-        height: 100%;
-    }
-}
