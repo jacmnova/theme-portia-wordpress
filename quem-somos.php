@@ -425,7 +425,7 @@
         <div class="row">
           <div class="col-md-5 border-left-card">
             <div class="card w-100 article">
-              <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/Diego.png" class="card-img-top" alt="..." >
+              <img src="<?php echo get_template_directory_uri() ?>/assets/img/profiles/diego.png" class="card-img-top" alt="..." >
               <div class="row">
                 <div class="col-md-12 d-flex justify-content-end container-btn">
                 </div>
