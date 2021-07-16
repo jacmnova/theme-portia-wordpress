@@ -579,3 +579,15 @@ body {
         height: auto !important;
     }
 }
+
+@media only screen and (max-height: 1100px) { 
+
+    .section-2 {
+        height: 65% !important;
+    }
+
+    #section-2-2 {
+        background-size: cover;
+        height: auto;
+    }
+}

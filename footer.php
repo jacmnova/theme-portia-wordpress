@@ -4,7 +4,7 @@
         <div class="col-md-10 offset-1 mt-5">
           <div class="row">
             <div class="col-md-6 center-text">
-              <h1 class="title-footer">Newsletter</h1>
+              <h1 class="title-footer" style="overflow: hidden;">Newsletter</h1>
               <p class="text-footer">Se inscreva e mantenha-se atualizado</p>
             </div>
             <div class="col-md-6">
@@ -23,7 +23,7 @@
               <p class="text-footer">+55 11 3062-5929</p>
             </div>
             <div class="col-md-4">
-              <h4 class="title-footer">Envie uma mensagem</h4>
+              <h4 class="title-footer" style="overflow: hidden;">Envie uma mensagem</h4>
               <p class="text-footer"><a href="https://www.linkedin.com/company/portia-lac/">
                 <img src="<?php echo get_template_directory_uri() ?>/assets/img/HOME/likedin.png" class="linkedin" width="35"></a> 
                 contato@portialac.com
