@@ -27,13 +27,13 @@
             .card > img{
                 
                 width: 100%;
-                height: 100%;
+                height: 382px;
             }
 
             #Destacado > img {
                 
                 width: 100%;
-                height: 249px;
+                height: 100%;
             }
 
             #Recent > img {
