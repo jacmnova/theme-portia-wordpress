@@ -138,7 +138,7 @@
       
       <div class="row p-5 ">
         <div class="col-md-10 offset-md-1 d-flex justify-content-center mt-5">
-          <?php echo do_shortcode( '[smart_post_show id="29"]' ); ?>
+          <?php echo do_shortcode( '[smart_post_show id="42"]' ); ?>
         </div>
       </div>
 </div>

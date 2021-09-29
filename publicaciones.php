@@ -43,7 +43,7 @@
     <div class="container-fluid" id="section-4">
       <div class="row">
           <div class="col-md-10 offset-md-1 d-flex justify-content-center mt-5">
-            <?php echo do_shortcode( '[smart_post_show id="29"]' ); ?>  
+            <?php echo do_shortcode( '[smart_post_show id="42"]' ); ?>  
           </div>
         </div>
         
