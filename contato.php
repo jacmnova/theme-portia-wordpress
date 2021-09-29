@@ -536,8 +536,8 @@
         </div>
     </div>
 
-    <div class="section-2-2">
-      <div class="container" id="team">
+    <div class="section-2-2" id="team">
+      <div class="container" >
           <div class="row">
               <div class="col-md-12 mt-5">
                   <div class="row mb-5">
@@ -913,12 +913,12 @@
     <script>
 
       
-$(document).ready(function () {
-    // Handler for .ready() called.
-    $('html, body').animate({
-        scrollTop: $('#team').offset().top
-    }, 'slow');
-});
+    $(document).ready(function () {
+        // Handler for .ready() called.
+        $('html, body').animate({
+            scrollTop: $('#team').offset().top
+        }, 'slow');
+    });
       
       
         var elmnt = document.getElementById("contact");
